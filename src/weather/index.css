@@ -1,0 +1,178 @@
+body Container {
+    background-color: #B5D8FF;
+}
+.colum_1 {
+    background-color: #5C9CE5;
+    height: auto;
+    margin-top: 20%;
+    border-radius: 30px;
+}
+.leftMoreHoriz {
+    color: #fff;
+    font-size: 35px !important;
+}
+.degreeSwitch{
+    color: #fff;
+    align-items: center;
+    display: inline-block;
+    font-size: 10px;
+}
+.subMenu {
+    padding-left: 30px;
+    align-items: center;
+}
+.cityName {
+    color: #fff;
+    align-items: center;
+}
+.switch {
+    width: 75px;
+}
+.degreeValue {
+    font-size: 80px;
+    color: #fff;
+}
+.degree {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+}
+.climateName{
+    font-size: 20px;
+    color: #fff;
+}
+
+.header {
+    padding:25px;
+    align-items: center;
+}
+.img_1 {
+    width: 100%;
+    margin-top: 260px;
+}
+
+.col_2 {
+    border-radius: 30px;
+    box-shadow: 10px;
+    /* padding: 20px; */
+}
+
+.welcomeHeader {
+    font-weight: bolder;
+}
+
+.rightMenu {
+    color: black;
+}
+.profileImage {
+    /* width: 100px; */
+    height: 40px;
+    border-radius: 10px;
+}
+.chartHeader{
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 20px;
+}
+.chartHeaderText {
+    color: black;
+}
+.chart{
+    padding: 25px;
+}
+#demo-multiple-name-label, .rainPrecipitionInput input, .rainPrecipitionBtn button {
+    border-radius: 25px;
+}
+
+.weatherCard{
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 10px !important;
+}
+
+.weatherCardHeightProp{
+    margin: 20px 0px !important;
+    min-height: 150px;
+}
+
+.humidityText{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.progressBar{
+    font-size:10px;
+    color:#c0c0c0;
+}
+
+.weatherIcon {
+    background-color: #5C9CE5;
+    color: #fff;
+    float: right;
+}
+
+.humidityProgress{
+    width: 45px;
+    border-radius: 10px;
+    height: 6px !important;
+}
+
+#gauge-chart1 > svg > g > g.text-group > text{
+    margin-top: 10px;
+}
+
+.PrecipitationProgressBar{
+    font-size:10px;
+    color:#c0c0c0;
+    width: 10%;
+}
+
+.weatherIcon {
+    background-color: #5C9CE5;
+    color: #fff;
+    float: right;
+    border-radius: 5px;
+}
+
+.PrecipitationHumidityProgress{
+    width: 8px;
+    border-radius: 10px;
+    height: 6px !important;
+}
+
+.uvProgressBar{
+    width: 45px !important;
+    font-size:10px;
+    color:#c0c0c0;
+}
+.uvProgress{
+    width: 35px;
+    border-radius: 10px;
+    height: 8px !important;
+}
+.feelLikeValue {
+    width: 100%;
+    font-size:16px;
+    color:#c0c0c0;
+}
+.degreeHeader1 {
+    text-align: left;
+}
+
+.degreeHeader3 {
+    text-align: right;
+}
+.ChancePercent {
+    width: 20% !important;
+    font-size:16px;
+    color:#c0c0c0;
+}
+
+.chart {
+    width: 100%;
+}
+
+/* @media  */
